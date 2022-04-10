@@ -1,0 +1,20 @@
+homescreen: suggestion bar for hot game user can drag to view all hot game, search bar for game search, ads bar for ads
+Top recommendations should changed regularly
+
+during searching:should all game as list of the search page. user input will start match the keyword and decrease the selection
+
+click the image from suggestion bar or search the keyword from search bar should both bring user to the relate page.
+
+menu should show in each game page, letting user switch between each page.
+
+simplify code. create a list and store all information then use one code to implement them all in the js file.
+
+game player should be easy understand the guide
+
+Simple design. page should not have too many function or image 
+
+Set a detailed game guide as demo
+
+Set 4 pages to only the first page
+
+Set 1 page as the screen to see after the software upgrade

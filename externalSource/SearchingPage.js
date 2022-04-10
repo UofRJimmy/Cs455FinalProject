@@ -56,12 +56,7 @@ const styles=StyleSheet.create({
      container:{
         marginTop: 10 
      },
-     Search_text_style:{
-      flex: 1,
-      color: 'black',
-      fontSize:15,
-      padding:20,
-     },
+    
     gamelist: {
     marginLeft:10,
     marginRight:10,

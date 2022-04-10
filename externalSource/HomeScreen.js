@@ -45,9 +45,9 @@ export default class HomeScreen extends React.Component{
         </View>
           <View style={styles.Ads_style}>
             <View style={styles.Ads_container}>
-       <Image source={{uri:'https://www.reckontalk.com/wp-content/uploads/2016/04/Mcdonalds-i-m-lovin-it.jpg'}}
+       <Image source={{uri:'http://5b0988e595225.cdn.sohucs.com/images/20170923/07602a5a6bdf4e599f7cbdef62d2be42.png'}}
         style={styles.Ads_image}/>
-        <Text style={styles.Ads_text}>Mcdonald:</Text>
+        <Text style={styles.Ads_text}>Fire chicken:</Text>
         <View>
         <Text>Your best food ↓</Text>
         <Text>Your best food ↓</Text>
@@ -174,8 +174,5 @@ SuggestImage:{
   width:60, 
   height:60,
 },
-rowimage:{
-  flexDirection:'row',
-  
-},
+
 })

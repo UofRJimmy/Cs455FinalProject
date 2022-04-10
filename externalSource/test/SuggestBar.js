@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'
 import {StyleSheet,View,Image,TouchableOpacity,Dimensions,ScrollView} from 'react-native'
 
 
@@ -25,7 +25,7 @@ export default class SuggestbBar extends React.Component{
         </TouchableOpacity>
         </ScrollView>
         </View>
-)};
+)}
 }
 
 const styles=StyleSheet.create({
@@ -44,8 +44,5 @@ const styles=StyleSheet.create({
         width:60, 
         height:60,
     },
-    rowimage:{
-        flexDirection:'row',
-        
-    }
+
 })

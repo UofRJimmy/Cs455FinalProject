@@ -1,6 +1,6 @@
 #Super Guide
 ---
-*version 1.0.0*
+*Version 1.0.0*
 =
 ![social](https://img.shields.io/github/followers/UofRJimmy?style=social)
 
@@ -36,14 +36,35 @@ You can also access it by Expo using Windows, macOS, or Linux.
 ## Operating instructions
 - There is a Search Bar and Some image of recent hot game under the search bar on the Home screen.
 
-- User can either click on the image to access the guide content or click on the search bar to search the game they want.
+- User can either click on the image to access the guide content.
 
-- If user click on the search bar, user can either input the name of the game to search the guide or scroll down the list to find the game they looking for.(you should click the keyword on the list to access the guide)
+![HomeScreen1](GithubImage/HomeScreen1.PNG)
+
+- Or click on the search bar to search the game they want.
+
+![HomeScreen2](GithubImage/HomeScreen2.PNG)
+
+- If user click on the search bar, the screen will navigate to search page.
+
+![SearchPage1](GithubImage/SearchPage1.PNG)
+
+- User can either input the name of the game to search the guide.
+
+![SearchPage2](GithubImage/SearchPage2.PNG)
+
+- Or scroll down the list to find the game they looking for.(you should click the keyword on the list to access the guide)
+
+![SearchPage3](GithubImage/SearchPage3.PNG)
 
 - There is a menu of each missions/level guide. The buttons on the menu having name on it. Find the missions/level you looking for and click on it.
 
+![MenuPage](GithubImage/MenuPage.PNG)
+
 - In the game guide page, the image can support the text and letting user to understand it faster.
-## manifest
+
+![SiFuGuide](GithubImage/SiFuGuide.PNG).
+
+## Manifest
 
 ```
 - CyberPunk ----------> Game guide folder for the CyberPunk including all js file of CybePunk guide page and image

@@ -1,0 +1,41 @@
+[
+    {
+      "game":"Sekiro: Shadows Die Twice",
+      "name":"SekiroPage"
+    },
+    {
+      "game":"Elden Ring",
+      "name":"EldenPage"
+    },
+    {
+      "game":"SiFu",
+      "name":"SiFu"
+    },
+    {
+      "game":"Ghostwire",
+      "name":"GhostwirePage"
+    },
+    {
+      "game":"CyberPunk 2077",
+      "name":"CyberPunkPage"
+    },
+    {
+      "game":"Grand Theft Auto 1"
+
+    },
+    {
+      "game":"Grand Theft Auto 2"
+
+    },
+    {
+      "game":"Grand Theft Auto 3"
+
+    },
+    {
+      "game":"Grand Theft Auto 4"
+
+    },
+    {
+      "game":"Grand Theft Auto 5"
+    }
+  ] 

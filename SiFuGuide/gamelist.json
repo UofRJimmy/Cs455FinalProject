@@ -1,0 +1,23 @@
+[
+    {
+      "level":"Slum",
+      "Page":"Slum"
+    },
+    {
+      "level":"Club",
+      "Page":"Club"
+    },
+    {
+      "level":"Gallery",
+      "Page":"Gallery"
+    },
+    {
+      "level":"Building",
+      "Page":"Building"
+    },
+    {
+      "level":"MeditationHall",
+      "Page":"MeditationHall"
+    }
+  
+  ] 

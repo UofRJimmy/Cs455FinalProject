@@ -30,7 +30,7 @@ You can also access it by Expo using Windows, macOS, or Linux.
 4. Click on Create a New Snack and get into this Snack
 5. Click on ⋮ from the project bar
 6. Select import git repository 
-7. Copy & Paste following link: https://github.com/UofRJimmy/Cs455FinalProject.git
+7. Copy & Paste the following link: https://github.com/UofRJimmy/Cs455FinalProject.git
 8. Click on Import respository
 9. Problem Window: Click Update for all line
 ## Operating instructions
